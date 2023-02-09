@@ -1,4 +1,4 @@
-# Projet 2: Booki
+# Projet 2 : Booki
 Deuxième projet du parcours "Développeur web" chez OpenClassroom. L'objectif est de transformer une maquette en site web avec HTML5 & CSS3.
 
 <img src="https://user-images.githubusercontent.com/98737248/217825346-0de37e2b-cc12-47e5-9576-6e692255e834.svg" style="height:35px;"> [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
